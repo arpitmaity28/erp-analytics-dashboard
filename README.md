@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Screenshot_20260331_164149.png)
 
 # ERP-Based Cost & Procurement Analytics Dashboard
 
